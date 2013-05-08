@@ -1,0 +1,5 @@
+name = Node comment notify
+description = "Node comment follow-up e-mail notification for anonymous as well as registered users."
+dependencies[] = comment_notify
+dependencies[] = nodecomment
+core = 6.x
